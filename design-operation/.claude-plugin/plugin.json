@@ -1,0 +1,8 @@
+{
+  "name": "dexlab-design-operation",
+  "version": "1.0.0",
+  "description": "Streamline design operations — critique frameworks, handoff specs, sprint planning, and team workflows.",
+  "author": "Léo (Leonardo Ferreira)",
+  "keywords": ["dexlab", "design", "design-operation", "design-ops", "handoff", "sprint", "critique", "workflow"],
+  "license": "MIT"
+}

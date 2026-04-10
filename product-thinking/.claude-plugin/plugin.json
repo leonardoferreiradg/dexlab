@@ -1,0 +1,8 @@
+{
+  "name": "dexlab-product-thinking",
+  "version": "1.0.0",
+  "description": "Define product strategy, frame problems clearly, construct PRDs, and align teams on what actually matters.",
+  "author": "Léo (Leonardo Ferreira)",
+  "keywords": ["dexlab", "design", "product-thinking", "strategy", "prd", "north-star", "brief", "opportunity"],
+  "license": "MIT"
+}

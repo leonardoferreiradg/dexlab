@@ -1,0 +1,38 @@
+---
+name: error-handling
+description: Design comprehensive error handling — every failure mode has a designed state, a clear message, and a recovery path.
+user-invocable: true
+argument-hint: "[feature or flow name]"
+---
+
+## MANDATORY PREPARATION
+
+Invoke /dexlab — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
+
+## Steps
+
+1. **Map all failure modes** — For every user action that touches an external system: what can go wrong? Network failure, timeout, validation error, permission error, server error, session expiry, rate limiting. Every one needs a designed state.
+
+2. **Design the error hierarchy** —
+   - **Inline validation**: Field-level, immediate, non-blocking. Appears as user types (with debounce) or on field blur.
+   - **Page-level errors**: Affect the whole view. Appear at the top, dismiss when resolved.
+   - **Toast/snackbar**: Transient feedback for actions. Auto-dismiss after 4-5s. Include undo for destructive actions.
+   - **Full-page errors**: 404, 500, offline, no permission. Each has its own design — not the same "something went wrong" page.
+
+3. **Write the recovery path for each error type** —
+   - Network error → Retry button
+   - Validation error → Field focus + inline message
+   - Permission error → Link to request access or explanation
+   - Session expired → Redirect to login + preserve destination
+   - Not found → Search or browse path
+   - Server error → Retry + status page link
+
+4. **Prevent errors before they happen** — Disable unavailable options with an explanation. Warn before destructive actions. Validate format before submission. Show character limits before users hit them.
+
+5. **Design the error copy** — Use the error-copy skill. Short version: specific cause + how to fix it. Never "invalid input" without context.
+
+6. **Test error states in reviews** — Show the error states in design reviews, not just the happy path. Error states ship if they're designed. They also ship if they're not.
+
+## Next Steps
+
+Build error state checklist for each user-facing flow. Include recovery paths in QA. Test network degradation with throttling tools. Verify error messages with users, not assumptions.

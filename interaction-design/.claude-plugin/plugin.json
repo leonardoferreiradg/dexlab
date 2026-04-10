@@ -1,0 +1,8 @@
+{
+  "name": "dexlab-interaction-design",
+  "version": "1.0.0",
+  "description": "Design meaningful interactions — micro-animations, state machines, gesture patterns, error handling, and feedback systems.",
+  "author": "Léo (Leonardo Ferreira)",
+  "keywords": ["dexlab", "design", "interaction-design", "animation", "state-machine", "gestures", "feedback", "micro-interactions"],
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dexlab-ux-writing",
+  "version": "1.0.0",
+  "description": "Write interface copy that converts and connects — microcopy, error messages, empty states, tone guidelines, and everything in between.",
+  "author": "Léo (Leonardo Ferreira)",
+  "keywords": ["dexlab", "design", "ux-writing", "microcopy", "copy", "tone-voice", "error-messages", "empty-states"],
+  "license": "MIT"
+}

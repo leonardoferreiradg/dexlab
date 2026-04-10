@@ -1,0 +1,8 @@
+{
+  "name": "dexlab-design-systems",
+  "version": "1.0.0",
+  "description": "Build and maintain design systems — tokens, components, accessibility, theming, documentation, and icon systems.",
+  "author": "Léo (Leonardo Ferreira)",
+  "keywords": ["dexlab", "design", "design-systems", "tokens", "components", "accessibility", "theming", "documentation"],
+  "license": "MIT"
+}

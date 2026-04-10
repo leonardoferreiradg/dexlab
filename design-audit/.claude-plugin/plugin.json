@@ -1,0 +1,8 @@
+{
+  "name": "dexlab-design-audit",
+  "version": "1.0.0",
+  "description": "Validate designs with rigor — prototyping strategies, usability testing, heuristic evaluation, and A/B experiments.",
+  "author": "Léo (Leonardo Ferreira)",
+  "keywords": ["dexlab", "design", "design-audit", "usability", "heuristics", "a-b-test", "prototype", "quality"],
+  "license": "MIT"
+}
