@@ -19,6 +19,29 @@
 
 ---
 
+## ⚡ Quick Start
+
+### 1. Add the Marketplace
+In Claude, run:
+```bash
+/plugin marketplace add leonardoferreiradg/dexlab
+```
+
+This registers the DexLab marketplace, allowing you to browse and install available plugins.
+
+---
+
+### 2. Install Plugins
+Open the plugin manager:
+
+```bash
+/plugin
+```
+
+Go to the **Discover** tab to explore all available design plugins.
+Select and install only the modules you need — DexLab is fully modular.
+
+
 ## Skills Reference
 
 ### Design Operation
