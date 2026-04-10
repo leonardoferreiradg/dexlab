@@ -5,10 +5,6 @@ user-invocable: true
 argument-hint: "[product-copy] or invoke during /craft"
 ---
 
-## MANDATORY PREPARATION
-
-Invoke `/dexlab` — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
-
 ## Clarify: Writing as Design
 
 Microcopy is usability. Microcopy is tone. Microcopy is how users know what to do next. Every word matters.

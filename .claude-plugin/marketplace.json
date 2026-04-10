@@ -6,6 +6,10 @@
   "homepage": "https://github.com/leonardoferreira-designer/dexlab",
   "license": "MIT",
   "category": "design",
+  "owner": {
+          "name": "leonardoferreiradg",
+          "url": "https://github.com/leonardoferreiradg/dexlab/"
+  },
   "plugins": [
     {
       "name": "Design Operation",

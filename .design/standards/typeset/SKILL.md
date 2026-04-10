@@ -5,10 +5,6 @@ user-invocable: true
 argument-hint: "[brand-context] or invoke after /shape"
 ---
 
-## MANDATORY PREPARATION
-
-Invoke `/dexlab` — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
-
 ## Typeset: Typography as Brand
 
 Typography is how words become voice. Your type system must reflect brand personality, not play it safe.
