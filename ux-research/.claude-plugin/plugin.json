@@ -1,0 +1,8 @@
+{
+  "name": "dexlab-ux-research",
+  "version": "1.0.0",
+  "description": "Conduct rigorous user research — synthetic personas, empathy maps, journey maps, interviews, usability testing, and card sorting.",
+  "author": "Léo (Leonardo Ferreira)",
+  "keywords": ["dexlab", "design", "ux-research", "user-research", "persona", "interview", "journey-map", "card-sort"],
+  "license": "MIT"
+}

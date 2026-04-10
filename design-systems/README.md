@@ -1,0 +1,23 @@
+# Design Systems
+
+Build design systems that scale. Token architecture, component specs, and naming conventions that create a shared language between design and engineering.
+
+## Skills
+
+| Skill | Description |
+|-------|-------------|
+| `ds_designtokens` | Define and organize design tokens with three-tier architecture and usage guidance. |
+| `ds_component-spec` | Write detailed component specifications including props, states, variants, and accessibility. |
+| `ds_naming-convention` | Define naming conventions for components, tokens, and variants. |
+
+## Commands
+
+| Command | Description |
+|---------|-------------|
+| `/create-component` | Create a new component — naming, spec, tokens, and documentation. |
+| `/tokenize` | Create or audit a design token system from global values to component tokens. |
+| `/audit-system` | Audit an existing design system for naming, token coverage, and component quality. |
+
+## Part of Dexlab
+
+This module is part of [Dexlab](../README.md) — a modular design framework by Léo.

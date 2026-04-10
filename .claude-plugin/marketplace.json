@@ -1,0 +1,59 @@
+{
+  "name": "Dexlab",
+  "version": "1.0.0",
+  "author": "Léo (Leonardo Ferreira)",
+  "description": "A modular AI-powered design framework covering the full product design lifecycle — from research to delivery.",
+  "homepage": "https://github.com/leonardoferreira-designer/dexlab",
+  "license": "MIT",
+  "category": "design",
+  "plugins": [
+    {
+      "name": "Design Operation",
+      "description": "Streamline operations: critique frameworks, handoff specs, sprint planning, and team workflows.",
+      "source": "./design-operation",
+      "category": "design"
+    },
+    {
+      "name": "Design Audit",
+      "description": "Validate designs: prototyping strategies, usability testing, heuristic evaluation, and A/B experiments.",
+      "source": "./design-audit",
+      "category": "design"
+    },
+    {
+      "name": "Product Thinking",
+      "description": "Define product strategy, frame problems, construct PRDs, and align teams on what actually matters.",
+      "source": "./product-thinking",
+      "category": "design"
+    },
+    {
+      "name": "UX Research",
+      "description": "User research: synthetic personas, empathy maps, journey maps, interviews, usability testing, and JTBD.",
+      "source": "./ux-research",
+      "category": "design"
+    },
+    {
+      "name": "UX Writing",
+      "description": "Define experience copy and best practices — microcopy, error messages, empty states, and tone guidelines.",
+      "source": "./ux-writing",
+      "category": "design"
+    },
+    {
+      "name": "Interaction Design",
+      "description": "Design meaningful interactions: micro-animations, state machines, gestures, error handling, and feedback.",
+      "source": "./interaction-design",
+      "category": "design"
+    },
+    {
+      "name": "Design Systems",
+      "description": "Build and maintain design systems: tokens, component specs, naming conventions, and documentation.",
+      "source": "./design-systems",
+      "category": "design"
+    },
+    {
+      "name": "UI Design",
+      "description": "Craft polished interfaces: color systems, typography, visual hierarchy, responsive design, and wireframing.",
+      "source": "./ui-design",
+      "category": "design"
+    }
+  ]
+}

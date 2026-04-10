@@ -1,0 +1,8 @@
+{
+  "name": "dexlab-ui-design",
+  "version": "1.0.0",
+  "description": "Craft polished interfaces — layout grids, color systems, typography, responsive design, dark mode, and data visualization.",
+  "author": "Léo (Leonardo Ferreira)",
+  "keywords": ["dexlab", "design", "ui-design", "layout", "color", "typography", "responsive", "data-visualization"],
+  "license": "MIT"
+}
