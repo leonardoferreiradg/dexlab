@@ -6,9 +6,9 @@ Build design systems that scale. Token architecture, component specs, and naming
 
 | Skill | Description |
 |-------|-------------|
-| `ds_designtokens` | Define and organize design tokens with three-tier architecture and usage guidance. |
-| `ds_component-spec` | Write detailed component specifications including props, states, variants, and accessibility. |
-| `ds_naming-convention` | Define naming conventions for components, tokens, and variants. |
+| `ds-designtokens` | Define and organize design tokens with three-tier architecture and usage guidance. |
+| `ds-component-spec` | Write detailed component specifications including props, states, variants, and accessibility. |
+| `ds-naming-convention` | Define naming conventions for components, tokens, and variants. |
 
 ## Commands
 

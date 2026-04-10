@@ -9,11 +9,11 @@ Systematic quality check across usability, accessibility, and interaction flow �
 
 ## Steps
 
-1. **Heuristic evaluation** — Use `audit_heuristic-evaluation` to score Nielsen's 10 heuristics (0–4 each, total /40). Document specific violations at severity 2+.
+1. **Heuristic evaluation** — Use `audit-heuristic-evaluation` to score Nielsen's 10 heuristics (0–4 each, total /40). Document specific violations at severity 2+.
 
-2. **Accessibility audit** — Use `audit_accessibility-test` to check WCAG 2.2 AA: contrast ratios, keyboard navigation, screen reader behavior, touch targets, and WCAG 2.2-specific criteria.
+2. **Accessibility audit** — Use `audit-accessibility-test` to check WCAG 2.2 AA: contrast ratios, keyboard navigation, screen reader behavior, touch targets, and WCAG 2.2-specific criteria.
 
-3. **Flow audit** — Use `audit_design-flow` to validate the user flow: happy path completeness, decision branches, error paths, and dead ends.
+3. **Flow audit** — Use `audit-design-flow` to validate the user flow: happy path completeness, decision branches, error paths, and dead ends.
 
 4. **Synthesize findings** — Merge all three assessments. Tag every issue P0–P3. Highlight where multiple audits flag the same element — those are priority fixes.
 
@@ -25,4 +25,4 @@ Unified audit report: heuristics score (/40), accessibility verdict (pass/fail p
 
 ## Follow-up
 
-Use `/audit_run-experiment` to test proposed fixes with real users before implementing all of them.
+Use `/audit-run-experiment` to test proposed fixes with real users before implementing all of them.

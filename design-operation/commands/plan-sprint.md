@@ -9,11 +9,11 @@ Turn an ambiguous problem into a structured 5-day sprint with a testable hypothe
 
 ## Steps
 
-1. **Frame the challenge** — Use `ops_sprint-plan` to write the sprint question as a testable hypothesis: "We believe that [change] will [outcome] for [audience]." If you can't fill in every blank, the challenge isn't ready for a sprint.
+1. **Frame the challenge** — Use `ops-sprint-plan` to write the sprint question as a testable hypothesis: "We believe that [change] will [outcome] for [audience]." If you can't fill in every blank, the challenge isn't ready for a sprint.
 
-2. **Define success criteria** — Use `ops_sprint-plan` to specify: what outcome ends this sprint successfully? Define measurable signals — prototype test completion rate, task success rate, time-on-task. Not "the team is aligned."
+2. **Define success criteria** — Use `ops-sprint-plan` to specify: what outcome ends this sprint successfully? Define measurable signals — prototype test completion rate, task success rate, time-on-task. Not "the team is aligned."
 
-3. **Map the 5-day schedule** — Use `ops_sprint-plan` to assign activities by day:
+3. **Map the 5-day schedule** — Use `ops-sprint-plan` to assign activities by day:
    - Day 1: Understand (journey map, expert interviews, HMW)
    - Day 2: Diverge (lightning demos, individual sketching)
    - Day 3: Decide (heat map vote, storyboard)
@@ -22,9 +22,9 @@ Turn an ambiguous problem into a structured 5-day sprint with a testable hypothe
 
 4. **Assign ownership** — Every activity has one named owner. Not "the team." One person per task.
 
-5. **Book Day 5 logistics now** — Use `ops_sprint-plan` to confirm: 5 test participants recruited, testing environment set up, session slots confirmed. No participants = no sprint. Book before Day 1.
+5. **Book Day 5 logistics now** — Use `ops-sprint-plan` to confirm: 5 test participants recruited, testing environment set up, session slots confirmed. No participants = no sprint. Book before Day 1.
 
-6. **Set the review checkpoints** — Use `ops_design-review` to define: end-of-Day-3 direction review and post-Day-5 synthesis review.
+6. **Set the review checkpoints** — Use `ops-design-review` to define: end-of-Day-3 direction review and post-Day-5 synthesis review.
 
 ## Output
 
@@ -32,4 +32,4 @@ Complete sprint plan: hypothesis, success criteria, 5-day schedule with owners, 
 
 ## Follow-up
 
-After Day 5, use `/uxr_discover` to synthesize research findings into opportunities.
+After Day 5, use `/uxr-discover` to synthesize research findings into opportunities.

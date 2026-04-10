@@ -6,11 +6,11 @@ Design interactions that feel intentional. State machines, micro-animations, ges
 
 | Skill | Description |
 |-------|-------------|
-| `id_interaction-spec` | Specify micro-interactions with trigger, rules, feedback, and loop/mode definitions. |
-| `id_animation-principles` | Apply animation principles to UI motion for purposeful, polished interactions. |
-| `id_feedback-patterns` | Design system feedback across every interaction type and timing range. |
-| `id_gesture-patterns` | Design gesture interactions that feel natural for touch-first surfaces. |
-| `id_error-control` | Design comprehensive error handling — every failure mode has a designed state and recovery path. |
+| `id-interaction-spec` | Specify micro-interactions with trigger, rules, feedback, and loop/mode definitions. |
+| `id-animation-principles` | Apply animation principles to UI motion for purposeful, polished interactions. |
+| `id-feedback-patterns` | Design system feedback across every interaction type and timing range. |
+| `id-gesture-patterns` | Design gesture interactions that feel natural for touch-first surfaces. |
+| `id-error-control` | Design comprehensive error handling — every failure mode has a designed state and recovery path. |
 
 ## Commands
 

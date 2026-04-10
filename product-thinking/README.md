@@ -6,12 +6,12 @@ Define product strategy, frame problems with precision, construct PRDs that guid
 
 | Skill | Description |
 |-------|-------------|
-| `product_benchmark` | Competitive analysis focused on experience patterns, not feature matrices. |
-| `product_brief` | Write a design brief with problem statement, constraints, and guiding principles. |
-| `product_north-star` | Define a North Star metric and input metric tree that aligns the team. |
-| `product_opportunity` | Frame and prioritize design opportunities from research findings. |
-| `product_prd` | Write a PRD with testable user stories, acceptance criteria, and measurable outcomes. |
-| `product_principles` | Define opinionated design principles that guide decisions and prevent scope creep. |
+| `product-benchmark` | Competitive analysis focused on experience patterns, not feature matrices. |
+| `product-brief` | Write a design brief with problem statement, constraints, and guiding principles. |
+| `product-north-star` | Define a North Star metric and input metric tree that aligns the team. |
+| `product-opportunity` | Frame and prioritize design opportunities from research findings. |
+| `product-prd` | Write a PRD with testable user stories, acceptance criteria, and measurable outcomes. |
+| `product-principles` | Define opinionated design principles that guide decisions and prevent scope creep. |
 
 ## Commands
 

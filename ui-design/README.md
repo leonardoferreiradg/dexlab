@@ -6,13 +6,13 @@ Craft interfaces that are polished, distinctive, and free of generic AI aestheti
 
 | Skill | Description |
 |-------|-------------|
-| `ui_color-system-creator` | Build a comprehensive color system with OKLCH palette generation and accessibility compliance. |
-| `ui_typeset` | Create a modular typography scale with size, weight, and line-height relationships. |
-| `ui_responsive-design` | Design adaptive layouts and interactions across all screen sizes and input methods. |
-| `ui_visual-hierarchy` | Establish clear visual hierarchy through size, weight, color, spacing, and position. |
-| `ui_illustration-style` | Define an illustration style guide with visual language, usage rules, and consistency standards. |
-| `ui_cloner` | Analyze a reference UI image and replicate its design system for new screens. |
-| `ui_wireframer-creator` | Ask targeted questions and produce a structured wireframe with real content and annotations. |
+| `ui-color-system-creator` | Build a comprehensive color system with OKLCH palette generation and accessibility compliance. |
+| `ui-typeset` | Create a modular typography scale with size, weight, and line-height relationships. |
+| `ui-responsive-design` | Design adaptive layouts and interactions across all screen sizes and input methods. |
+| `ui-visual-hierarchy` | Establish clear visual hierarchy through size, weight, color, spacing, and position. |
+| `ui-illustration-style` | Define an illustration style guide with visual language, usage rules, and consistency standards. |
+| `ui-cloner` | Analyze a reference UI image and replicate its design system for new screens. |
+| `ui-wireframer-creator` | Ask targeted questions and produce a structured wireframe with real content and annotations. |
 
 ## Commands
 

@@ -6,12 +6,12 @@ Validate designs with rigor before they ship. Prototyping strategies, usability 
 
 | Skill | Description |
 |-------|-------------|
-| `audit_prototype-strategy` | Choose the right prototyping fidelity and method for the design question. |
+| `audit-prototype-strategy` | Choose the right prototyping fidelity and method for the design question. |
 | `usability-test` | Write usability test scenarios with tasks, success criteria, and observation guides. |
-| `audit_heuristic-evaluation` | Conduct expert heuristic evaluations using Nielsen's 10 heuristics with severity scoring. |
-| `audit_ab-test` | Design rigorous A/B tests with hypotheses, variants, metrics, and sample size calculations. |
-| `audit_design-flow` | Create user flow diagrams showing paths, decisions, and branch logic. |
-| `audit_accessibility-test` | Create accessibility testing plans covering WCAG 2.2 and assistive technologies. |
+| `audit-heuristic-evaluation` | Conduct expert heuristic evaluations using Nielsen's 10 heuristics with severity scoring. |
+| `audit-ab-test` | Design rigorous A/B tests with hypotheses, variants, metrics, and sample size calculations. |
+| `audit-design-flow` | Create user flow diagrams showing paths, decisions, and branch logic. |
+| `audit-accessibility-test` | Create accessibility testing plans covering WCAG 2.2 and assistive technologies. |
 
 ## Commands
 
