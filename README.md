@@ -1,8 +1,6 @@
 # Dexlab
 
-**Dexlab** is a modular AI-powered design framework by Léo (Leonardo Ferreira) that covers the full product design lifecycle — from research and strategy through delivery and systems.
-
-Every skill in Dexlab is opinionated, grounded in real design practice, and built to reject generic output. Design is decision-making. Every decision here is traceable.
+**Dexlab** is a modular AI-powered design framework created by a Brazilian Designer [@leo]([https://url-completa.com](https://www.linkedin.com/in/leonardoferreiradesign/)) that covers the full product design lifecycle — from research and strategy through delivery and systems. Every skill in Dexlab is opinionated, grounded in real design practice, and built to reject generic output. Design is decision-making. Every decision here is traceable.
 
 ---
 
@@ -156,8 +154,9 @@ The `core/.claude/skills/dexlab/reference/` directory contains deep reference ma
 
 ## Author
 
-Created by **Léo (Leonardo Ferreira)** — designer and creator of Dexlab.
+Built in 🇧🇷 by Leo.
+Open to contributions — feel free to explore, improve, and build with DexLab.
 
 ---
 
-*Dexlab is a Dexlab project. MIT License.*
+*Dexlab is a Dexlab project. GNU AFFERO GENERAL PUBLIC LICENSE.*
