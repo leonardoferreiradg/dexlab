@@ -1,4 +1,4 @@
-# Dexlab
+![alt text](https://i.postimg.cc/T3jGshLt/dexlab-logo.png "DexLab")
 
 **Dexlab (Design Experience Laboratory)**  is a modular AI design framework created by a Brazilian Designer [@leo](https://www.linkedin.com/in/leonardoferreiradesign/) that covers the full product design lifecycle: from research and strategy through delivery and systems. Every skill in Dexlab is opinionated, grounded in real design practice, and built to reject generic output. Design is decision-making. Every decision here is traceable.
 
