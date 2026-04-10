@@ -155,11 +155,9 @@ Select and install only the modules you need — DexLab is fully modular.
 
 ---
 
-## Core
+## Core (.design)
 
-The `core/` directory contains the master `/dexlab` skill: the Context Protocol and design philosophy that all other skills reference. Every skill in every module invokes `/dexlab` before proceeding.
-
-The `core/.claude/skills/dexlab/reference/` directory contains deep reference materials consulted by skills during execution: typography, color system, spatial design, interaction patterns, research methods, and design ops.
+The `.design/` directory contains the master `/dexlab` skill: the Context Protocol and design philosophy that all other skills reference. Every skill in every module invokes `.design/references` and `.design/standards` before proceeding.
 
 ---
 
