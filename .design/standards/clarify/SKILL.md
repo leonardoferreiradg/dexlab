@@ -167,7 +167,7 @@ Structure: **What happened** + **Why** + **How to fix**
 - [ ] Copy matches brand voice
 
 ## Reference
-- Check `.design/standards/interaction-patterns.md` for state-specific copy examples
+- Check `.design/references/interaction-patterns.md` for state-specific copy examples
 
 ## Next Steps
 - Use **craft** to implement microcopy in components

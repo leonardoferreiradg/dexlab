@@ -8,7 +8,12 @@ argument-hint: "[image path or description of reference UI]"
 
 ## MANDATORY PREPARATION
 
-Invoke /dexlab — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/color-system.md` — OKLCH color space, semantic token tiers, dark mode strategy, accessibility contrast ratios
+- `.design/references/typography.md` — modular scale, font selection, line-height, web font loading, Portuguese-aware typography
+- `.design/references/spatial-design.md` — 4pt base scale, semantic spacing tokens, container queries, visual rhythm, grid systems
 
 ---
 

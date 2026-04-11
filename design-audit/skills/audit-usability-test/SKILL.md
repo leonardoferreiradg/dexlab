@@ -5,6 +5,13 @@ user-invocable: true
 argument-hint: Feature or design to test, or prototype to validate
 ---
 
+## MANDATORY PREPARATION
+
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/research-methods.md` — qualitative methods, interview practices, affinity mapping, JTBD framework, synthesis
+
 ## What This Skill Does
 A test that confirms what you already believe is not a test. This skill forces you to write tasks that could prove you wrong, then interpret results fairly.
 

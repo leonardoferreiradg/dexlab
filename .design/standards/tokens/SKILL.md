@@ -5,10 +5,6 @@ user-invocable: true
 argument-hint: "[token-architecture] or invoke after design systems defined"
 ---
 
-## MANDATORY PREPARATION
-
-Invoke `/dexlab` — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
-
 ## Tokens: Shared Language
 
 Tokens are the shared language between design and code. Inconsistent tokens create inconsistent products.
@@ -41,7 +37,7 @@ Three-tier token hierarchy ensures consistency and maintainability:
 Rule: Code uses **component tokens** or **alias tokens**, never global tokens directly.
 
 ### STEP 2: Create Color Tokens
-Reference `.design/standards/colorize/` for full color system.
+Reference `.design/standards/colorize/SKILL.md` for full color system.
 
 **Global color tokens**:
 ```css
@@ -93,7 +89,7 @@ Reference `.design/standards/colorize/` for full color system.
 ```
 
 ### STEP 3: Create Typography Tokens
-Reference `.design/standards/typeset/` for full typography system.
+Reference `.design/standards/typeset/SKILL.md` for full typography system.
 
 **Global type tokens** (font families):
 ```css
@@ -150,7 +146,7 @@ Reference `.design/standards/typeset/` for full typography system.
 ```
 
 ### STEP 4: Create Spacing Tokens
-Reference `.design/standards/layout/` for full spacing system.
+Reference `.design/standards/layout/SKILL.md` for full spacing system.
 
 **Global spacing tokens** (multiples of 4px base):
 ```css
@@ -201,7 +197,7 @@ Reference `.design/standards/layout/` for full spacing system.
 ```
 
 ### STEP 5: Create Motion Tokens
-Reference `.design/standards/animate/` for full motion system.
+Reference `.design/standards/animate/SKILL.md` for full motion system.
 
 **Global motion tokens**:
 ```css

@@ -7,7 +7,7 @@ argument-hint: "[design system or component library name]"
 
 ## MANDATORY PREPARATION
 
-Invoke /dexlab — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
 
 ---
 

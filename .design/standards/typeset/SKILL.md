@@ -23,7 +23,7 @@ Typography is how words become voice. Your type system must reflect brand person
 - Plan responsive version: smaller ratio at mobile (1.2), larger at desktop (1.4)
 
 ### STEP 2: Select Fonts Following Anti-Generic Rules
-- Reference `.design/standards/typography.md` for selection procedure
+- Reference `.design/references/typography.md` for selection procedure
 - Reject: Inter, Roboto, DM Sans (safe defaults, not distinctive)
 - Consider: Does font personality match brand tone?
   - Serious/corporate: serif, narrow sans (Crimson Text, Plex Sans)
