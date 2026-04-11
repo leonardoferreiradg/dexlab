@@ -21,6 +21,3 @@ Conduct user research that informs real design decisions. Behavioral personas, e
 | `/build-persona` | Build a behavioral persona with JTBD mapping and empathy validation. |
 | `/map-journey` | Create a complete journey map with emotional arc and prioritized opportunities. |
 
-## Part of Dexlab
-
-This module is part of [Dexlab](../README.md) — a modular design framework by Léo.

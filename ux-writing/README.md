@@ -20,6 +20,3 @@ Write interface copy that helps users succeed and feel understood. Microcopy, er
 | `/audit-copy` | Audit existing copy for consistency, clarity, and tone alignment. |
 | `/define-tone` | Define voice and tone guidelines with attributes, examples, and a banned word list. |
 
-## Part of Dexlab
-
-This module is part of [Dexlab](../README.md) — a modular design framework by Léo.
