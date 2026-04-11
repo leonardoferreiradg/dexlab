@@ -20,6 +20,3 @@ Design interactions that feel intentional. State machines, micro-animations, ges
 | `/map-states` | Map all UI states as a finite state machine with transitions and impossibilities. |
 | `/design-gesture` | Design gesture interactions with affordance, feedback, conflicts, and fallbacks. |
 
-## Part of Dexlab
-
-This module is part of [Dexlab](../README.md) — a modular design framework by Léo.

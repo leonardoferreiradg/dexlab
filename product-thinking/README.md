@@ -21,6 +21,3 @@ Define product strategy, frame problems with precision, construct PRDs that guid
 | `/write-prd` | Write a complete PRD from a defined opportunity with user stories and metrics. |
 | `/set-north-star` | Define the North Star metric and build the supporting input metric tree. |
 
-## Part of Dexlab
-
-This module is part of [Dexlab](../README.md) — a modular design framework by Léo.

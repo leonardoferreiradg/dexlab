@@ -23,6 +23,3 @@ Craft interfaces that are polished, distinctive, and free of generic AI aestheti
 | `/clone-ui` | Analyze a reference UI and produce new screens that match its design language precisely. |
 | `/wireframe` | Ask the right questions, then produce a structured wireframe with real content. |
 
-## Part of Dexlab
-
-This module is part of [Dexlab](../README.md) — a modular design framework by Léo.

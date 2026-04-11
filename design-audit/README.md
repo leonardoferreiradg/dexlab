@@ -22,6 +22,3 @@ Validate designs with rigor before they ship. Prototyping strategies, usability 
 | `/map-flow` | Create a complete user flow with all paths and decide what to prototype. |
 | `/usability-test` | Plan and run a usability test from task writing to findings report. |
 
-## Part of Dexlab
-
-This module is part of [Dexlab](../README.md) — a modular design framework by Léo.

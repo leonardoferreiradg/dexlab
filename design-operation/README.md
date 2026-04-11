@@ -21,6 +21,3 @@ Streamline how design work moves through your organization. Structured critique,
 | `/plan-sprint` | Plan a design sprint from challenge definition to Day 5 test logistics. |
 | `/setup-review` | Set up a structured design review process with criteria and approval flows. |
 
-## Part of Dexlab
-
-This module is part of [Dexlab](../README.md) — a modular design framework by Léo.

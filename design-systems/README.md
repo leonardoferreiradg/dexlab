@@ -18,6 +18,3 @@ Build design systems that scale. Token architecture, component specs, and naming
 | `/tokenize` | Create or audit a design token system from global values to component tokens. |
 | `/audit-system` | Audit an existing design system for naming, token coverage, and component quality. |
 
-## Part of Dexlab
-
-This module is part of [Dexlab](../README.md) — a modular design framework by Léo.
