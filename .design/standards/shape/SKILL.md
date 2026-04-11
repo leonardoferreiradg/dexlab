@@ -5,10 +5,6 @@ user-invocable: true
 argument-hint: "[project-context] or invoke with .dexlab.md loaded"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
 ## Shape: The Thinking Phase
 
 Shape is where you decide WHAT to build and WHY. Skip this and you're decorating, not designing.

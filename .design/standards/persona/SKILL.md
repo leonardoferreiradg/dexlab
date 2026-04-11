@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: "[interview findings] [behavior patterns]"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/research-methods.md` — qualitative methods, interview practices, JTBD framework, bias awareness, synthesis
-
 ## OVERVIEW
 
 A persona without behavioral data is fiction, not design. Demographics alone (age, gender, job title) create stereotypes. Every persona attribute must be traceable to observed behavior from research. Build personas to make research patterns actionable for design.

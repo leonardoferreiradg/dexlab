@@ -5,16 +5,6 @@ user-invocable: true
 argument-hint: "[token-architecture] or invoke after design systems defined"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/color-system.md` — OKLCH color space, semantic token tiers, dark mode strategy, accessibility contrast ratios
-- `.design/references/typography.md` — modular scale, font families, line-height, letter-spacing tokens
-- `.design/references/spatial-design.md` — 4pt base scale, semantic spacing tokens, gap patterns
-- `.design/references/interaction-patterns.md` — 8 interactive states, motion tokens context
-
 ## Tokens: Shared Language
 
 Tokens are the shared language between design and code. Inconsistent tokens create inconsistent products.

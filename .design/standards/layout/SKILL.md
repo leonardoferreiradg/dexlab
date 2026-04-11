@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: "[breakpoints] or invoke after /shape"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/spatial-design.md` — 4pt base scale, semantic spacing tokens, container queries, self-adjusting grids, visual rhythm
-
 ## Layout: Spacing Creates Meaning
 
 Spacing is grouping. Spacing is breathing. Spacing is how users understand relationships between elements. Not everything needs a card.

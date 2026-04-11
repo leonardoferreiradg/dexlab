@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: "[brand-colors] or invoke after /shape"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/color-system.md` — OKLCH color space, semantic token tiers, dark mode strategy, accessibility contrast ratios
-
 ## Colorize: Color as System
 
 Color is a tool, not decoration. A proper color system ensures consistency, accessibility, and intentionality.

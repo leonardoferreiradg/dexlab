@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: "[project scope] [comparison criteria]"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/research-methods.md` — qualitative methods, competitive framing, synthesis patterns, bias awareness
-
 ## OVERVIEW
 
 Benchmarking is not a feature matrix. You're not building a shopping list. You're understanding what works in the space, what's standard, and where gaps exist. Choose competitors and criteria aligned to your research questions and design goals.

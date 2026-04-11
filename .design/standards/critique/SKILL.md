@@ -5,14 +5,6 @@ user-invocable: true
 argument-hint: Design file (Figma URL) or screenshot to critique
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/interaction-patterns.md` — 8 interactive states, form design, loading patterns for heuristic context
-- `.design/references/design-ops.md` — structured critique process, quality gates, decision log
-
 ## What This Skill Does
 This skill runs two independent assessments: design review (heuristics-based) and anti-pattern detection. Combined report shows health score, what's working, priority issues, and next steps.
 

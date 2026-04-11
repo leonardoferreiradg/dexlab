@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: "[interaction-context] or invoke after /craft foundation"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/interaction-patterns.md` — 8 interactive states, loading patterns, touch targets, optimistic UI
-
 ## Animate: Motion with Purpose
 
 Motion can clarify or distract. Good motion guides attention, shows causality, and respects user intent. Bad motion exhausts and alienates.

@@ -5,10 +5,6 @@ user-invocable: true
 argument-hint: "[research findings] [brand context] [design brief]"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
 ## OVERVIEW
 
 A design principle that no one would disagree with is useless. "Be intuitive" is not a principle. "Speed over completeness" is. Good principles are opinionated stances that surface trade-offs and guide hard decisions. They should create constructive tension.

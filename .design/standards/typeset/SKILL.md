@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: "[brand-context] or invoke after /shape"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/typography.md` — modular scale, font selection procedure, line-height rules, web font loading
-
 ## Typeset: Typography as Brand
 
 Typography is how words become voice. Your type system must reflect brand personality, not play it safe.

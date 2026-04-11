@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: "[research findings] [journey map] [design principles]"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/research-methods.md` — synthesis patterns, JTBD framework, insight-to-opportunity transformation
-
 ## OVERVIEW
 
 An unfocused design exploration wastes time. Opportunity framing surfaces where you can create real value. You're not redesigning everything. You're identifying the 2–3 leverage points where design creates disproportionate impact on user behavior and business goals.

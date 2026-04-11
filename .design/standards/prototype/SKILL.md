@@ -5,14 +5,6 @@ user-invocable: true
 argument-hint: Design challenge or feature area to prototype
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/research-methods.md` — assumption testing, success criteria, sample sizes
-- `.design/references/interaction-patterns.md` — 8 interactive states, edge cases to prototype for
-
 ## What This Skill Does
 Prototyping everything at high fidelity is waste. This skill forces prioritization: identify the ONE assumption that would kill your design if wrong, then build the minimum to test it.
 

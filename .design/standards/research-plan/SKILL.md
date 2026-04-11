@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: "[project context] [initial research questions]"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/research-methods.md` — qualitative vs quantitative, interview practices, card sorting, sample sizes, research ethics
-
 ## OVERVIEW
 
 Research without a plan is waste. This skill structures what you need to learn, how you'll learn it, and how you'll know you succeeded. Reject default approaches ("let's interview 5 users"). Every method must solve a specific research question.

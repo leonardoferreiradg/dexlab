@@ -5,14 +5,6 @@ user-invocable: true
 argument-hint: Design file (Figma URL) or component to hand off
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/design-ops.md` — handoff checklist, quality gates, token-based specs, decision log format
-- `.design/references/interaction-patterns.md` — 8 interactive states to document, edge cases, accessibility requirements
-
 ## What This Skill Does
 CRITICAL: Use design tokens, not raw values. Developers need the system, not a snapshot. 'var(--space-md)' not '16px'. This skill ensures your handoff is implementable and maintainable.
 

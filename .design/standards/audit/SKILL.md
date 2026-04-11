@@ -5,14 +5,6 @@ user-invocable: true
 argument-hint: Design file (Figma URL), website URL, or codebase to audit
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/interaction-patterns.md` — 8 interactive states, accessibility requirements, touch targets for audit criteria
-- `.design/references/design-ops.md` — quality gates, design debt tracking, audit scoring format
-
 ## What This Skill Does
 Run a structured audit across five quality dimensions. Each dimension is scored 0–4. Total score /20 with actionable recommendations mapped to specific skills.
 

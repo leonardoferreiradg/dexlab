@@ -5,14 +5,6 @@ user-invocable: true
 argument-hint: "[product-copy] or invoke during /craft"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/interaction-patterns.md` — 8 interactive states, form design, error patterns, loading and success copy context
-- `.design/references/typography.md` — font hierarchy and readability rules for microcopy sizing
-
 ## Clarify: Writing as Design
 
 Microcopy is usability. Microcopy is tone. Microcopy is how users know what to do next. Every word matters.

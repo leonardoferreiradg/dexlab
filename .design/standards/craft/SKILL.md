@@ -5,16 +5,6 @@ user-invocable: true
 argument-hint: "[shape-context] or invoke after /shape is complete"
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/typography.md` — font selection, modular scale, line-height, web font loading
-- `.design/references/color-system.md` — OKLCH color space, semantic token tiers, dark mode strategy, accessibility contrast ratios
-- `.design/references/spatial-design.md` — 4pt base scale, semantic spacing tokens, container queries, visual rhythm
-- `.design/references/interaction-patterns.md` — 8 interactive states, form design, loading patterns, optimistic UI
-
 ## Craft: Building with Rigor
 
 Craft is the execution phase. It takes the shape direction and builds a complete, production-grade frontend that rejects AI slop, respects users, and proves the design works.

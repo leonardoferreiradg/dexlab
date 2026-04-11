@@ -5,13 +5,6 @@ user-invocable: true
 argument-hint: Team or project to set up ops for
 ---
 
-## MANDATORY PREPARATION
-
-Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
-
-**Load for this skill:**
-- `.design/references/design-ops.md` — review process, quality gates, handoff checklist, decision log, design debt tracking
-
 ## What This Skill Does
 Design operations enables systematic quality and governance. This skill establishes processes, gates, and documentation so design leads development instead of chasing it.
 
