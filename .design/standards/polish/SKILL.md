@@ -5,6 +5,14 @@ user-invocable: true
 argument-hint: Design file (Figma URL) or component to polish
 ---
 
+## MANDATORY PREPARATION
+
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/interaction-patterns.md` — 8 interactive states, focus visibility, touch targets, form completeness
+- `.design/references/spatial-design.md` — 4pt base scale, visual rhythm, optical adjustments
+
 ## What This Skill Does
 Polish is not decoration. It's the difference between "works" and "feels right." This skill forces precision: alignment, consistency, completeness, and refined interaction.
 

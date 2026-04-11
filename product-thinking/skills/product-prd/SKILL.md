@@ -7,7 +7,11 @@ argument-hint: "[feature or product]"
 
 ## MANDATORY PREPARATION
 
-Invoke /dexlab — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/research-methods.md` — qualitative methods, interview practices, affinity mapping, JTBD framework, synthesis
+- `.design/references/design-ops.md` — design review process, quality gates, handoff checklist, decision log, design debt tracking
 
 ## STEPS
 

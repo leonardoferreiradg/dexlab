@@ -5,6 +5,13 @@ user-invocable: true
 argument-hint: "[persona] [scenario/context]"
 ---
 
+## MANDATORY PREPARATION
+
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/research-methods.md` — research synthesis, emotional grounding, JTBD framework, observation-to-insight
+
 ## OVERVIEW
 
 A journey map without emotional ups and downs is a process diagram. If every step feels the same, you haven't mapped the experience. Journey maps surface where design can create delight or remove friction. They're tools for alignment, not documentation.

@@ -7,7 +7,11 @@ argument-hint: "[gesture type: tap, swipe, long-press, pinch]"
 
 ## MANDATORY PREPARATION
 
-Invoke /dexlab — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/interaction-patterns.md` — 8 interactive states, form design, loading patterns, touch targets, optimistic UI
+- `.design/references/spatial-design.md` — 4pt base scale, semantic spacing tokens, container queries, visual rhythm, grid systems
 
 ## Steps
 

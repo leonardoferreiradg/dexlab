@@ -7,7 +7,11 @@ argument-hint: "[product-copy] or invoke during /craft"
 
 ## MANDATORY PREPARATION
 
-Invoke `/dexlab` — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/interaction-patterns.md` — 8 interactive states, form design, loading patterns, touch targets, optimistic UI
+- `.design/references/typography.md` — modular scale, font selection, line-height, web font loading, Portuguese-aware typography
 
 ## Clarify: Writing as Design
 
@@ -171,7 +175,7 @@ Structure: **What happened** + **Why** + **How to fix**
 - [ ] Copy matches brand voice
 
 ## Reference
-- Check `.design/standards/interaction-patterns.md` for state-specific copy examples
+- Check `.design/references/interaction-patterns.md` for state-specific copy examples
 
 ## Next Steps
 - Use **craft** to implement microcopy in components

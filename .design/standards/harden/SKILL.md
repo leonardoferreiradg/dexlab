@@ -5,6 +5,13 @@ user-invocable: true
 argument-hint: Feature or design to harden for production
 ---
 
+## MANDATORY PREPARATION
+
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/interaction-patterns.md` — 8 interactive states, form error design, loading patterns, progressive disclosure
+
 ## What This Skill Does
 If you haven't designed the error state, you haven't designed the feature. This skill forces resilience thinking: every happy path needs unhappy paths designed.
 

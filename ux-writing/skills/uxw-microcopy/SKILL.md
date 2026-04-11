@@ -7,7 +7,11 @@ argument-hint: "[interface element type]"
 
 ## MANDATORY PREPARATION
 
-Invoke `/dexlab` — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/interaction-patterns.md` — 8 interactive states, form design, loading patterns, touch targets, optimistic UI
+- `.design/references/typography.md` — modular scale, font selection, line-height, web font loading, Portuguese-aware typography
 
 ## Steps
 

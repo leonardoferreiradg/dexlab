@@ -5,6 +5,13 @@ user-invocable: true
 argument-hint: "[brand-context] or invoke after /shape"
 ---
 
+## MANDATORY PREPARATION
+
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/typography.md` — modular scale, font selection procedure, line-height rules, web font loading
+
 ## Typeset: Typography as Brand
 
 Typography is how words become voice. Your type system must reflect brand personality, not play it safe.
@@ -23,7 +30,7 @@ Typography is how words become voice. Your type system must reflect brand person
 - Plan responsive version: smaller ratio at mobile (1.2), larger at desktop (1.4)
 
 ### STEP 2: Select Fonts Following Anti-Generic Rules
-- Reference `.design/standards/typography.md` for selection procedure
+- Reference `.design/references/typography.md` for selection procedure
 - Reject: Inter, Roboto, DM Sans (safe defaults, not distinctive)
 - Consider: Does font personality match brand tone?
   - Serious/corporate: serif, narrow sans (Crimson Text, Plex Sans)

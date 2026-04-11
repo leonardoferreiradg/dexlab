@@ -7,7 +7,13 @@ argument-hint: "[shape-context] or invoke after /shape is complete"
 
 ## MANDATORY PREPARATION
 
-Invoke `/dexlab` — it contains design principles, anti-generic rules, and the **Context Protocol**. Follow the protocol before proceeding.
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/typography.md` — font selection, modular scale, line-height, web font loading
+- `.design/references/color-system.md` — OKLCH color space, semantic token tiers, dark mode strategy, accessibility contrast ratios
+- `.design/references/spatial-design.md` — 4pt base scale, semantic spacing tokens, container queries, visual rhythm
+- `.design/references/interaction-patterns.md` — 8 interactive states, form design, loading patterns, optimistic UI
 
 ## Craft: Building with Rigor
 
@@ -36,7 +42,7 @@ Craft is the execution phase. It takes the shape direction and builds a complete
 - Set up responsive variants for each component
 
 ### STEP 4: Typography Implementation
-- Reference `.design/standards/typography.md` for detailed rules
+- Reference `.design/references/typography.md` for detailed rules
 - Implement type scale ratios: 1.5:1 recommended for marketing, 1.25:1 for product
 - Use modular sizing: display (3.5rem), heading-1 (2.5rem), heading-2 (2rem), body (1rem), caption (0.875rem), code (0.875rem)
 - Set line-height: 1.6 for body text, 1.4 for headings, 1.2 for dense data
@@ -47,7 +53,7 @@ Craft is the execution phase. It takes the shape direction and builds a complete
 - Confirm font-loading strategy (avoid invisible text)
 
 ### STEP 5: Color System Implementation
-- Reference `.design/standards/color-system.md` for token architecture
+- Reference `.design/references/color-system.md` for token architecture
 - Build palette using OKLCH color space (better than HSL for consistency)
 - Create semantic tokens: primary, secondary, surface, neutral, error, success, warning, info
 - Tint neutrals toward brand hue (never pure gray)
@@ -57,7 +63,7 @@ Craft is the execution phase. It takes the shape direction and builds a complete
 - Create component-level tokens: button-bg, input-border, card-shadow, etc.
 
 ### STEP 6: Spatial Design Implementation
-- Reference `.design/standards/spatial-design.md` for layout rules
+- Reference `.design/references/spatial-design.md` for layout rules
 - Use semantic spacing tokens: xs (4px), sm (8px), md (16px), lg (32px), xl (64px)
 - Spacing creates grouping—use varied spacing, not cards everywhere
 - Touch targets ≥44px (mobile), ≥32px (desktop)
@@ -78,7 +84,7 @@ Craft is the execution phase. It takes the shape direction and builds a complete
 - Success states: celebratory tone (color, icon, optional animation)
 
 ### STEP 8: Motion and Animation Implementation
-- Reference `.design/standards/motion-design.md` for principles
+- Reference `.design/references/interaction-patterns.md` for motion and animation principles
 - Use only transform and opacity (GPU-accelerated)
 - No bounce, elastic, or spring easing—use cubic-bezier or ease-out
 - Follow 100/300/500 timing rule: micro (100ms), standard (300ms), macro (500ms)

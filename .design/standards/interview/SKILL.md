@@ -5,6 +5,13 @@ user-invocable: true
 argument-hint: "[research questions] [target user description]"
 ---
 
+## MANDATORY PREPARATION
+
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/research-methods.md` — interview best practices, affinity diagramming, bias awareness, sample sizes, research ethics
+
 ## OVERVIEW
 
 An interview is a structured conversation designed to reveal how users think, what they do, and why they do it. A good interview script creates space for discovery. A weak one leads with assumptions and gets yes/no answers that teach you nothing.

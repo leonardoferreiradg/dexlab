@@ -5,6 +5,13 @@ user-invocable: true
 argument-hint: "[research findings] [project context]"
 ---
 
+## MANDATORY PREPARATION
+
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/research-methods.md` — research synthesis, JTBD framework, insight-to-opportunity patterns
+
 ## OVERVIEW
 
 A design brief is your north star. It articulates the problem, constraints, and non-negotiables so every decision traces back to intent. A bad brief creates misalignment; a good one prevents thousands of wrong turns.

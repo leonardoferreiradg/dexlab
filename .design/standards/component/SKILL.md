@@ -5,6 +5,14 @@ user-invocable: true
 argument-hint: "[component-name] or invoke after /craft"
 ---
 
+## MANDATORY PREPARATION
+
+Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context Protocol. Required before proceeding.
+
+**Load for this skill:**
+- `.design/references/interaction-patterns.md` — 8 interactive states, form design, focus management, touch targets
+- `.design/references/spatial-design.md` — 4pt base scale, semantic spacing tokens for component padding and gap
+
 ## Component: Specification as Contract
 
 A component spec without edge cases is a wishlist, not a spec. Document thoroughly—it saves debugging time.
