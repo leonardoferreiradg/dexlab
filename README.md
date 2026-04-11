@@ -180,4 +180,4 @@ Open to contributions: feel free to explore, improve, and build with DexLab.
 
 ---
 
-*Dexlab is a Dexlab project. GNU AFFERO GENERAL PUBLIC LICENSE.*
+*GNU AFFERO GENERAL PUBLIC LICENSE.*
