@@ -1,5 +1,5 @@
 ---
-name: Brief
+name: product-brief
 description: Create design briefs that align teams and anchor decision-making
 user-invocable: true
 argument-hint: "[research findings] [project context]"

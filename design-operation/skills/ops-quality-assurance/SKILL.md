@@ -1,5 +1,5 @@
 ---
-name: ops-QA
+name: ops-quality-assurance
 description: Create QA checklists that verify implementation fidelity to design — catching regressions before they reach users.
 user-invocable: true
 argument-hint: "[component or feature name]"

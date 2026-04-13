@@ -1,5 +1,5 @@
 ---
-name: Interview
+name: uxr-interview-script
 description: Create interview scripts and synthesize findings into patterns and key insights
 user-invocable: true
 argument-hint: "[research questions] [target user description]"

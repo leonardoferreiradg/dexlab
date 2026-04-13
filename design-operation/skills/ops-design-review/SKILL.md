@@ -1,5 +1,5 @@
 ---
-name: design-review
+name: ops-design-review
 description: Run a structured design review — not an opinion session, not a status update, but a decision-making meeting with clear inputs and outputs.
 user-invocable: true
 argument-hint: "[design artifact or meeting agenda]"

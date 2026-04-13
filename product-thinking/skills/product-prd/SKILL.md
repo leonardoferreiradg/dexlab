@@ -1,5 +1,5 @@
 ---
-name: prd
+name: product-prd
 description: Write a Product Requirements Document that actually guides development — specific, testable, and free of "intuitive" and "seamless."
 user-invocable: true
 argument-hint: "[feature or product]"

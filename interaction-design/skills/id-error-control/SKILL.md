@@ -1,5 +1,5 @@
 ---
-name: error-handling
+name: id-error-control
 description: Design comprehensive error handling — every failure mode has a designed state, a clear message, and a recovery path.
 user-invocable: true
 argument-hint: "[feature or flow name]"

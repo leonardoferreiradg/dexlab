@@ -1,5 +1,5 @@
 ---
-name: Colorize
+name: ui-color-system-creator
 description: Build a coherent, accessible color system using OKLCH with semantic tokens.
 user-invocable: true
 argument-hint: "[brand-colors] or invoke after /shape"

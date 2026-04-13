@@ -1,5 +1,5 @@
 ---
-name: audit_ab-test
+name: audit-ab-test
 description: Design a rigorous A/B experiment — define the hypothesis, choose the metric, calculate sample size, and interpret results without fooling yourself.
 user-invocable: true
 argument-hint: "[hypothesis or metric to test]"

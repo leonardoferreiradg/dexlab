@@ -1,5 +1,5 @@
 ---
-name: Opportunity
+name: product-opportunity
 description: Frame and prioritize design opportunities using research, principles, and feasibility
 user-invocable: true
 argument-hint: "[research findings] [journey map] [design principles]"

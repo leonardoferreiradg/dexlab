@@ -1,5 +1,5 @@
 ---
-name: ux-journey-map
+name: uxr-journey-map
 description: Map user journeys with emotional depth, pain points, and moments of delight
 user-invocable: true
 argument-hint: "[persona] [scenario/context]"

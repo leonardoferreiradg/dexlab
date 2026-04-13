@@ -1,5 +1,5 @@
 ---
-name: heuristic-evaluation
+name: audit-heuristic-evaluation
 description: Evaluate an interface against Nielsen's 10 usability heuristics — systematic, severity-rated, and actionable.
 user-invocable: true
 argument-hint: "[interface or flow to evaluate]"

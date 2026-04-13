@@ -1,5 +1,5 @@
 ---
-name: Principles
+name: product-principles
 description: Define opinionated design principles that guide decisions and prevent scope creep
 user-invocable: true
 argument-hint: "[research findings] [brand context] [design brief]"

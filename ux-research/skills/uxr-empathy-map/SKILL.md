@@ -1,5 +1,5 @@
 ---
-name: empathy-map
+name: uxr-empathy-map
 description: Build an empathy map that surfaces what users think, feel, say, and do — grounded in research, not assumptions.
 user-invocable: true
 argument-hint: "[user persona and research source]"
