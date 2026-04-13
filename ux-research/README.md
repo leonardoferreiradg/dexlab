@@ -7,7 +7,6 @@ Conduct user research that informs real design decisions. Behavioral personas, e
 | Skill | Description |
 |-------|-------------|
 | `uxr-synthetic-persona` | Create behavioral personas from research data with goals, frustrations, and design implications. |
-| `uxr-empathy-map` | Build a 4-quadrant empathy map (Says, Thinks, Does, Feels) from research evidence. |
 | `uxr-journey-map` | Create an end-to-end journey map with stages, touchpoints, emotions, and opportunities. |
 | `uxr-interview-script` | Create a structured user interview script with warm-up, core exploration, and wrap-up. |
 | `uxr-usability-plan` | Design a usability test plan with tasks, success metrics, and facilitation guide. |

@@ -1,10 +1,11 @@
 {
-  "name": "dexlab",
-  "version": "1.0.0",
+  "name": "dexlab-skills",
+  "version": "1.0.1",
   "description": "CLI installer for Dexlab — modular AI design framework for Claude Code",
   "keywords": [
     "dexlab",
     "design",
+    "product-design",
     "claude",
     "claude-code",
     "skills",
@@ -15,12 +16,12 @@
   "homepage": "https://github.com/leonardoferreiradg/dexlab",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leonardoferreiradg/dexlab.git"
+    "url": "git+https://github.com/leonardoferreiradg/dexlab.git"
   },
   "license": "AGPL-3.0",
   "author": "Leo (https://github.com/leonardoferreiradg)",
   "bin": {
-    "skills": "./bin/skills.js"
+    "dexlab-skills": "bin/skills.js"
   },
   "files": [
     "bin/",
@@ -28,5 +29,6 @@
   ],
   "engines": {
     "node": ">=16.0.0"
-  }
+  },
+  "dependencies": {}
 }

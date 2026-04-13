@@ -13,9 +13,7 @@ A persona grounded in behavior, not demographics — built from evidence, not as
 
 2. **Map jobs-to-be-done** — Use `uxr-jtbd` to identify the persona's functional, emotional, and social jobs. The job persists even if the product changes. The persona without a job is a character sketch, not a design tool.
 
-3. **Validate with empathy data** — Use `uxr-empathy-map` to check the persona against the Says / Thinks / Does / Feels quadrants. Tensions between what the persona says and does are the most design-relevant insights.
-
-4. **Define design implications** — For this persona: what must the design make easy? What must it never make harder? What would cause this user to abandon? Write 3–5 concrete design implications, not generic statements.
+3. **Define design implications** — For this persona: what must the design make easy? What must it never make harder? What would cause this user to abandon? Write 3–5 concrete design implications, not generic statements.
 
 ## Output
 

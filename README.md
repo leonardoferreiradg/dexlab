@@ -8,10 +8,10 @@
 
 | Module | Description | Skills | Commands |
 |--------|-------------|--------|----------|
-| [Design Operation](./design-operation) | Streamline operations: critique frameworks, handoff specs, sprint planning, and team workflows. | 5 | 4 |
-| [Design Audit](./design-audit) | Validate designs: prototyping strategies, usability testing, heuristic evaluation, and A/B experiments. | 6 | 4 |
+| [Design Operation](./design-ops) | Streamline operations: critique frameworks, handoff specs, sprint planning, and team workflows. | 5 | 4 |
+| [Design Audit](./design-audit) | Validate designs: prototyping strategies, usability testing, heuristic evaluation, and A/B experiments. | 6 | 2 |
 | [Product Thinking](./product-thinking) | Define product strategy, frame problems, construct PRDs, and align teams on what matters. | 6 | 3 |
-| [UX Research](./ux-research) | User research: synthetic personas, empathy maps, journey maps, interviews, and JTBD. | 6 | 3 |
+| [UX Research](./ux-research) | User research: synthetic personas, empathy maps, journey maps, interviews, and JTBD. | 5 | 3 |
 | [UX Writing](./ux-writing) | Define experience copy and best practices to convert and connect. | 5 | 3 |
 | [Interaction Design](./interaction-design) | Design meaningful interactions: state machines, animations, gestures, errors, and feedback. | 5 | 3 |
 | [Design Systems](./design-systems) | Build and maintain design systems: tokens, components, and naming conventions. | 3 | 3 |
@@ -41,6 +41,14 @@ Open the plugin manager:
 Go to the **Discover** tab to explore all available design plugins.
 Select and install only the modules you need — DexLab is fully modular.
 
+---
+
+### OPTIONAL - Install by NPX (Only for .claude)
+
+```bash
+npx dexlab-skills add leonardoferreiradg/dexlab
+```
+
 
 ## Skills Reference
 
@@ -51,7 +59,7 @@ Select and install only the modules you need — DexLab is fully modular.
 | `ops-design-handoff` | Criar especificações de handoff com medidas, comportamentos, assets e casos de borda. |
 | `ops-sprint-plan` | Planejar e facilitar design sprints, do enquadramento do desafio até o teste de protótipos. |
 | `ops-design-review` | Estabelecer etapas de revisão com critérios, checklists e fluxos de aprovação. |
-| `ops-QA` | Criar checklists de QA para verificar fidelidade da implementação ao design. |
+| `ops-quality-assurance` | Criar checklists de QA para verificar fidelidade da implementação ao design. |
 
 ### Design Audit
 | Skill | Description |
@@ -77,7 +85,6 @@ Select and install only the modules you need — DexLab is fully modular.
 | Skill | Description |
 |-------|-------------|
 | `uxr-synthetic-persona` | Create behavioral personas from research data: not demographics. |
-| `uxr-empathy-map` | Build a 4-quadrant empathy map (Says, Thinks, Does, Feels) from research evidence. |
 | `uxr-journey-map` | Create an end-to-end journey map with stages, emotions, pain points, and opportunities. |
 | `uxr-interview-script` | Create a structured user interview script with warm-up, exploration, and wrap-up. |
 | `uxr-usability-plan` | Design a usability test plan with tasks, success metrics, and facilitation guide. |
@@ -130,8 +137,6 @@ Select and install only the modules you need — DexLab is fully modular.
 | `/plan-sprint` | Design Operation | Plan a design sprint from challenge definition to Day 5 test logistics. |
 | `/setup-review` | Design Operation | Set up a structured design review process with criteria and approval flows. |
 | `/full-audit` | Design Audit | Run a full audit: heuristics, accessibility, and flow validation in one pass. |
-| `/run-experiment` | Design Audit | Design a complete A/B experiment from hypothesis to result interpretation. |
-| `/map-flow` | Design Audit | Create a complete user flow with all paths and decide what to prototype. |
 | `/usability-test` | Design Audit | Plan and run a usability test from task writing to findings report. |
 | `/frame-problem` | Product Thinking | Frame a design problem with JTBD, benchmark, and opportunity definition. |
 | `/write-prd` | Product Thinking | Write a complete PRD with user stories, acceptance criteria, and metrics. |

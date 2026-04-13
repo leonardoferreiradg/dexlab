@@ -13,11 +13,9 @@ Map the experience as users actually live it — not as the product team imagine
 
 2. **Map the journey** — Use `uxr-journey-map` to document: phases, user actions, touchpoints (product and non-product), system responses, and emotional state at each step. Sources: research transcripts, observation notes, support ticket patterns.
 
-3. **Validate emotional data** — Use `uxr-empathy-map` to cross-check the emotional arc. Where do users feel anxious? Relieved? Frustrated? Surprised? The emotional arc is not decorative — it reveals where the product creates or destroys value.
+3. **Annotate opportunities** — For every pain point: frame it as a design opportunity. Format: "Users feel [emotion] when [situation] because [cause]. Opportunity: [direction]." Every opportunity must point to a cause, not just the symptom.
 
-4. **Annotate opportunities** — For every pain point: frame it as a design opportunity. Format: "Users feel [emotion] when [situation] because [cause]. Opportunity: [direction]." Every opportunity must point to a cause, not just the symptom.
-
-5. **Prioritize** — Score opportunities: user impact × frequency × feasibility. Surface the top 3 for design exploration.
+4. **Prioritize** — Score opportunities: user impact × frequency × feasibility. Surface the top 3 for design exploration.
 
 ## Output
 

@@ -42,15 +42,15 @@ function printHelp() {
   Dexlab Skills CLI
 
   Usage:
-    skills add <owner/repo>           Install skills locally (.claude/skills/)
-    skills add <owner/repo> --global  Install skills globally (~/.claude/skills/)
+    npx dexlab-skills add <owner/repo>           Install skills locally (.claude/skills/)
+    npx dexlab-skills add <owner/repo> --global  Install skills globally (~/.claude/skills/)
 
   Options:
     --global, -g   Install for all projects
     --help,   -h   Show this help message
 
   Examples:
-    npx dexlab add leonardoferreiradg/dexlab
-    npx dexlab add leonardoferreiradg/dexlab --global
+    npx dexlab-skills add leonardoferreiradg/dexlab
+    npx dexlab-skills add leonardoferreiradg/dexlab --global
 `);
 }

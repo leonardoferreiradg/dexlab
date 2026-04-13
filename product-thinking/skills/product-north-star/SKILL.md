@@ -1,5 +1,5 @@
 ---
-name: north-star
+name: product-north-star
 description: Define a North Star metric and supporting metric tree that aligns the team on what actually matters — and why.
 user-invocable: true
 argument-hint: "[product or user value]"

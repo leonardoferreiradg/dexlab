@@ -15,9 +15,7 @@ Structured discovery from zero to research-informed design direction.
 
 3. **Map JTBD** — Use `uxr-jtbd` to frame the research around jobs: functional, emotional, and social dimensions of what users are trying to accomplish. Jobs persist longer than feature preferences.
 
-4. **Build empathy map** — Use `uxr-empathy-map` to synthesize findings into the Says / Thinks / Does / Feels quadrants. Identify tensions — gaps between what users say and what they do are the most valuable insights.
-
-5. **Map the experience** — Use `uxr-journey-map` to produce the end-to-end journey: phases, touchpoints, emotional arc, pain points, and opportunities. Every opportunity area must be traced to research evidence.
+4. **Map the experience** — Use `uxr-journey-map` to produce the end-to-end journey: phases, touchpoints, emotional arc, pain points, and opportunities. Every opportunity area must be traced to research evidence.
 
 ## Output
 
