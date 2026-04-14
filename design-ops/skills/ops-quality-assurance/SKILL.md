@@ -17,10 +17,10 @@ Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context P
 
 Before proceeding, confirm the product context that will make this skill's output non-generic.
 
-**If `.dexlab.md` exists in the project root:**
-Read it. Extract the Target Audience and the most relevant constraint or success metric for this skill. State them in one sentence each, then proceed. Do not ask questions that are already answered in that file.
+**If product context is already available** — via `.dexlab.md` in the project root, Project Instructions, or context established earlier in this conversation:
+Read it. Extract the Target Audience and the most relevant constraint or success metric for this skill. State them in one sentence each, then proceed. Do not ask questions that are already answered.
 
-**If `.dexlab.md` does not exist, or is missing the five pillars:**
+**If no product context is available from any of these sources:**
 Stop. Do not proceed with assumptions. Ask the following questions — wait for answers before continuing:
 
 1. What is the product and who is the primary user — in one sentence that a new team member would use to orient themselves?
