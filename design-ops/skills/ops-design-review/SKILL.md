@@ -12,6 +12,22 @@ Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context P
 **Load for this skill:**
 - `.design/references/design-ops.md` — design review process, quality gates, handoff checklist, decision log, design debt tracking
 
+## PRODUCT GUIDANCE
+
+Before proceeding, confirm the product context that will make this skill's output non-generic.
+
+**If `.dexlab.md` exists in the project root:**
+Read it. Extract the Target Audience and the most relevant constraint or success metric for this skill. State them in one sentence each, then proceed. Do not ask questions that are already answered in that file.
+
+**If `.dexlab.md` does not exist, or is missing the five pillars:**
+Stop. Do not proceed with assumptions. Ask the following questions — wait for answers before continuing:
+
+1. What is the product and who is the primary user — in one sentence that a new team member would use to orient themselves?
+2. What is the team structure for this work — who are the decision-makers, and where does design hand off to engineering?
+3. What is the specific artifact, component, or phase this ops task covers, and what is the hard deadline or gate it must clear?
+
+**Rule:** If the user answers "I don't know" or leaves a question blank, name what you're assuming and why. Proceed only if the assumption is low-stakes for this skill. If the assumption would fundamentally change the output, stop and ask again more specifically.
+
 ## STEPS
 
 1. **Set the context** — Share before the meeting: the problem being solved, the constraints, what decisions need to be made. No one should arrive cold. Send a one-page brief 24 hours in advance. Include: "By the end of this review, we must decide: [X] or [Y]?" This is not a soft open-ended question. This is a binary or choice.

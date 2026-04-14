@@ -12,6 +12,22 @@ Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context P
 **Load for this skill:**
 - `.design/references/interaction-patterns.md` — 8 interactive states, form design, loading patterns, touch targets, optimistic UI
 
+## PRODUCT GUIDANCE
+
+Before proceeding, confirm the product context that will make this skill's output non-generic.
+
+**If `.dexlab.md` exists in the project root:**
+Read it. Extract the Target Audience and the most relevant constraint or success metric for this skill. State them in one sentence each, then proceed. Do not ask questions that are already answered in that file.
+
+**If `.dexlab.md` does not exist, or is missing the five pillars:**
+Stop. Do not proceed with assumptions. Ask the following questions — wait for answers before continuing:
+
+1. Who is the user, and what is their relationship to this product — is this a tool they use daily at work, an occasional app, a high-stakes flow (finance, health), or a first-time experience?
+2. What platform or surface does this interaction live on — mobile native, responsive web, desktop app — and what input methods should be supported?
+3. What specific interaction, component, or flow are we designing behavior for? What is the user trying to accomplish at this exact moment?
+
+**Rule:** If the user answers "I don't know" or leaves a question blank, name what you're assuming and why. Proceed only if the assumption is low-stakes for this skill. If the assumption would fundamentally change the output, stop and ask again more specifically.
+
 ## Steps
 
 1. **Map the feedback matrix** — Every interaction type × every state:

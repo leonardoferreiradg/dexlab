@@ -17,6 +17,22 @@ Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context P
 
 ---
 
+## PRODUCT GUIDANCE
+
+Before proceeding, confirm the product context that will make this skill's output non-generic.
+
+**If `.dexlab.md` exists in the project root:**
+Read it. Extract the Target Audience and the most relevant constraint or success metric for this skill. State them in one sentence each, then proceed. Do not ask questions that are already answered in that file.
+
+**If `.dexlab.md` does not exist, or is missing the five pillars:**
+Stop. Do not proceed with assumptions. Ask the following questions — wait for answers before continuing:
+
+1. What is the product's brand personality — describe it with three words that would make a designer make different visual choices than if you used three different words? (e.g., "precise, trustworthy, calm" vs. "bold, playful, irreverent")
+2. Who is the primary user and what is their context when they encounter this UI — rushed and mobile, focused at a desktop, exploring for the first time, returning daily?
+3. What platform and visual constraints apply — existing design system or tokens to use, target devices, dark mode requirement, accessibility level (WCAG AA or AAA)?
+
+**Rule:** If the user answers "I don't know" or leaves a question blank, name what you're assuming and why. Proceed only if the assumption is low-stakes for this skill. If the assumption would fundamentally change the output, stop and ask again more specifically.
+
 This skill uses vision to extract a design system from a reference UI and reproduce it precisely. The goal is not "inspired by" — it is identical visual language. Requires the user to provide one or more UI screenshots or images.
 
 **If no image is provided:** Ask the user to share a screenshot or image of the reference UI before proceeding.

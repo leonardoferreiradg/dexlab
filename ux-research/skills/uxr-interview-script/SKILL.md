@@ -12,6 +12,22 @@ Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context P
 **Load for this skill:**
 - `.design/references/research-methods.md` — qualitative methods, interview practices, affinity mapping, JTBD framework, synthesis
 
+## PRODUCT GUIDANCE
+
+Before proceeding, confirm the product context that will make this skill's output non-generic.
+
+**If `.dexlab.md` exists in the project root:**
+Read it. Extract the Target Audience and the most relevant constraint or success metric for this skill. State them in one sentence each, then proceed. Do not ask questions that are already answered in that file.
+
+**If `.dexlab.md` does not exist, or is missing the five pillars:**
+Stop. Do not proceed with assumptions. Ask the following questions — wait for answers before continuing:
+
+1. What specific question or assumption are you trying to answer or test through this research? (Not "learn about users" — what decision will this research enable or change?)
+2. Who are the research participants — describe them by behavior, not demographics. What do they actually do, and how does your product fit into that?
+3. What research has already been done on this product and these users — if any? What do you already know, and what are you still guessing?
+
+**Rule:** If the user answers "I don't know" or leaves a question blank, name what you're assuming and why. Proceed only if the assumption is low-stakes for this skill. If the assumption would fundamentally change the output, stop and ask again more specifically.
+
 ## OVERVIEW
 
 An interview is a structured conversation designed to reveal how users think, what they do, and why they do it. A good interview script creates space for discovery. A weak one leads with assumptions and gets yes/no answers that teach you nothing.
