@@ -15,6 +15,22 @@ Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context P
 - `.design/references/spatial-design.md` — 4pt base scale, semantic spacing tokens, gap patterns
 - `.design/references/interaction-patterns.md` — 8 interactive states, motion tokens context
 
+## PRODUCT GUIDANCE
+
+Before proceeding, confirm the product context that will make this skill's output non-generic.
+
+**If `.dexlab.md` exists in the project root:**
+Read it. Extract the Target Audience and the most relevant constraint or success metric for this skill. State them in one sentence each, then proceed. Do not ask questions that are already answered in that file.
+
+**If `.dexlab.md` does not exist, or is missing the five pillars:**
+Stop. Do not proceed with assumptions. Ask the following questions — wait for answers before continuing:
+
+1. What product is this design system for, and who are its primary users — the product's end users, and the designers/engineers who will use the system itself?
+2. What is the technology stack and design tooling? (e.g., React + Figma, Vue + Tokens Studio, native iOS + Sketch)
+3. What is the current state of the system — starting from scratch, formalizing something that exists informally, or migrating from a legacy system?
+
+**Rule:** If the user answers "I don't know" or leaves a question blank, name what you're assuming and why. Proceed only if the assumption is low-stakes for this skill. If the assumption would fundamentally change the output, stop and ask again more specifically.
+
 ## Tokens: Shared Language
 
 Tokens are the shared language between design and code. Inconsistent tokens create inconsistent products.

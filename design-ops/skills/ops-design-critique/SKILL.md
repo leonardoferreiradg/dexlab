@@ -13,6 +13,22 @@ Read `.design/RULES.md` — design philosophy, anti-generic rules, and Context P
 - `.design/references/interaction-patterns.md` — 8 interactive states, form design, loading patterns for heuristic evaluation
 - `.design/references/design-ops.md` — structured critique process, quality gates, decision log
 
+## PRODUCT GUIDANCE
+
+Before proceeding, confirm the product context that will make this skill's output non-generic.
+
+**If `.dexlab.md` exists in the project root:**
+Read it. Extract the Target Audience and the most relevant constraint or success metric for this skill. State them in one sentence each, then proceed. Do not ask questions that are already answered in that file.
+
+**If `.dexlab.md` does not exist, or is missing the five pillars:**
+Stop. Do not proceed with assumptions. Ask the following questions — wait for answers before continuing:
+
+1. What is the product and who is the primary user — in one sentence that a new team member would use to orient themselves?
+2. What is the team structure for this work — who are the decision-makers, and where does design hand off to engineering?
+3. What is the specific artifact, component, or phase this ops task covers, and what is the hard deadline or gate it must clear?
+
+**Rule:** If the user answers "I don't know" or leaves a question blank, name what you're assuming and why. Proceed only if the assumption is low-stakes for this skill. If the assumption would fundamentally change the output, stop and ask again more specifically.
+
 ## What This Skill Does
 This skill runs two independent assessments: design review (heuristics-based) and anti-pattern detection. Combined report shows health score, what's working, priority issues, and next steps.
 
